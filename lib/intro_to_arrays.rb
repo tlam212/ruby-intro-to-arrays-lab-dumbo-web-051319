@@ -9,3 +9,8 @@ end
 def first_element(array)
   array.shift
 end
+
+def third_element(array)
+  array[3]
+end
+  
